@@ -1,4 +1,4 @@
-# Welcome to the Mailchimp Content Style Guide
+# Welcome to the Positive Intelligence Content Style Guide
 
 This style guide is primarily for Mailchimp employees, but we hope it’s helpful to other organizations as well.
 
